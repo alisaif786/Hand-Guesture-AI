@@ -1,5 +1,4 @@
-# Hand-Guesture-AI
-# Controll Dino Game with Hand-Guesture
+
 
 # Imports
 import numpy as np
